@@ -1,5 +1,5 @@
 # UIPath3
-Soma Números Consecutivos (N vezes)
+Soma de Números Consecutivos (N vezes - Informado pelo usuário). E gravação em Arquivo de Cada Soma realizada, número Par(Par.txt) ou Ímpar(Impar.txt)
 
 
 
