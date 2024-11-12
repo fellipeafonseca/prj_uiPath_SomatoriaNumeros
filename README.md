@@ -1,5 +1,5 @@
 # Somatória de Números e Classificação
-### Somatória de números digitados pelo usuário e classificação se "Pares" ou "Ímpares" (Par.txt) e Ímpar (Impar.txt).
+#### Somatória de números digitados pelo usuário e classificação se "Pares" ou "Ímpares" (Par.txt) e Ímpar (Impar.txt).
 
 
 ## 1. Coleta da quantidade de números a serem informados, e validação (Apenas números e não caracteres).
