@@ -2,7 +2,7 @@
 Somatória de números digitados pelo usuário e classificação se "Pares" ou "Ìmpares" (Par.txt) e Ímpar(Impar.txt)
 
 
-1. Coleta da quantidade de números a serem informados, e validação (Apenas números e não caracteres).
+## 1. Coleta da quantidade de números a serem informados, e validação (Apenas números e não caracteres).
 ![UI1](https://github.com/fellipespfc/UIPath3/blob/main/Fotos/1.JPG)
 
 
